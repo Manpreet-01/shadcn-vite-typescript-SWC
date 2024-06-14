@@ -36,6 +36,15 @@ export function Menu() {
                                 <MenubarItem>Email link</MenubarItem>
                                 <MenubarItem>Messages</MenubarItem>
                                 <MenubarItem>Notes</MenubarItem>
+                                <MenubarSub>
+                                    <MenubarSubTrigger>Others</MenubarSubTrigger>
+                                    <MenubarSubContent>
+                                        <MenubarItem>Whatsapp</MenubarItem>
+                                        <MenubarItem>Instagram</MenubarItem>
+                                        <MenubarItem>Facebook</MenubarItem>
+                                        <MenubarItem>Snapchat</MenubarItem>
+                                    </MenubarSubContent>
+                                </MenubarSub>
                             </MenubarSubContent>
                         </MenubarSub>
                         <MenubarSeparator />
