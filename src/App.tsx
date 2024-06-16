@@ -7,7 +7,7 @@ export default function Home() {
     <ThemeProvider defaultTheme="light" storageKey="vite-ui-theme">
       <Menu />
 
-      <div className="flex justify-center p-8">
+      <div className="flex justify-center px-96">
         <AccordionSection />
       </div>
     </ThemeProvider>
